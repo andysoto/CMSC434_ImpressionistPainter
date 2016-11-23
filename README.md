@@ -2,7 +2,7 @@
 
 A simple painting app used to create an impressionist painting from an image for CMSC434 at the University of Maryland, Fall Semester 2016.
 
-<img src="https://github.com/andysoto/CMSC434_ImpressionistPainter/blob/master/impressionist.PNG"/>
+<img src="https://github.com/andysoto/CMSC434_ImpressionistPainter/impressionist.png"/>
 
 Once the app is running, the user can see a variety of buttons: "Download Images", "Load Image", "Brush", "Clear", "Save"
 The download image button downloads a set of pictures to the device's gallery. The user can then use the load image to select 
